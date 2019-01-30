@@ -1,4 +1,4 @@
-package com.excercise.lists;
+package com.exercise.lists;
 
 /* Single linked list implementation
  * Author: jmunoz 
