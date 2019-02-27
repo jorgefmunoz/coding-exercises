@@ -1,6 +1,6 @@
 package com.exercise.lists;
 
-/* Single linked list implementation
+/* Singly linked list implementation
  * Author: jmunoz 
  * 
  */
